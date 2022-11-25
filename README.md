@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santosKelly
+- 👋 Hi, I’m Kelly
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/santosKelly">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=santosKelly&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosKelly&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=santosKelly&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosKelly&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
