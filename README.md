@@ -6,9 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/santosKelly">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=santosKelly&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosKelly&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=santosKelly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosKelly&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kelly-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
