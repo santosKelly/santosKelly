@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kelly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 <i> Hi, I’m Kelly | Hallo, Ich heiße Kelly </i>
+- 💻🌱 <i> I’m currently learning .Net/C#, SQL Server and Java Script | Ich studiere derzeit .NET/ C#, SQL Server und JavaScript. </i>
+- 👀 <i> I'm interested in learning Angular and API | Ich interessiere mich für Angular und API. </i>
+<br>
+
 
 <div align="center">
   <a href="https://github.com/santosKelly">
