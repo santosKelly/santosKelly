@@ -26,8 +26,6 @@
   <a href = "mailto:kellystos517@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kelly-santos-7438851bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/santosKelly/santosKelly/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
   
     
