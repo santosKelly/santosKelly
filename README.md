@@ -1,5 +1,5 @@
 - 👋 <i> Hi, I’m Kelly | Hallo, Ich heiße Kelly </i>
-- 💻🌱 <i> I’m currently learning .Net/C#, SQL Server and Java Script | Ich studiere derzeit .NET/ C#, SQL Server und JavaScript. </i>
+- 💻🌱 <i> I’m currently learning .Net/C#, SQL Server and Java | Ich studiere derzeit .NET/ C#, SQL Server und Java. </i>
 - 👀 <i> I'm interested in learning Angular and API | Ich interessiere mich für Angular und API. </i>
 <br>
 
